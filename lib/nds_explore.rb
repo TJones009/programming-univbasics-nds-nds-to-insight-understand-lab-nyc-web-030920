@@ -18,6 +18,8 @@ def print_first_directors_movie_titles
   constant = 0
   
   while constant < steve_movies.length do
-    titles = steve_movies[constant][:titles]
-  
+    titles = steve_movies[constant][:title]
+    puts titles
+    index += 1
+  end
 end
