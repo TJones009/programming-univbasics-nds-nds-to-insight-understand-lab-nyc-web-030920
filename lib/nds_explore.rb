@@ -25,3 +25,19 @@ def print_first_directors_movie_titles
 end
 
 pp print_first_directors_movie_titles
+
+
+#def print_first_directors_movie_titles
+  
+#  steve_movies = directors_database[0][:movies]
+  
+ # constant = 0
+  
+ # while constant < steve_movies.length do
+ #   titles = steve_movies[constant][:title]
+ #   puts titles
+ #   constant += 1
+ # end
+#end
+
+pp print_first_directors_movie_titles
