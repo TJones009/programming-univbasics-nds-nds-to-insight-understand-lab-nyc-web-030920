@@ -17,5 +17,6 @@ def print_first_directors_movie_titles
   
   constant = 0
   
+  while constant < steve_movies[constant][:title]
   
 end
