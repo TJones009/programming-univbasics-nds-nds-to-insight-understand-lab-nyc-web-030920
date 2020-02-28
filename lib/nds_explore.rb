@@ -24,3 +24,4 @@ def print_first_directors_movie_titles
   end
 end
 
+pp print_first_directors_movie_titles
