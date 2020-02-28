@@ -13,6 +13,6 @@ end
 
 def print_first_directors_movie_titles
   
-  
+  steve_movies = directors_database
   
 end
