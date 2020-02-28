@@ -13,6 +13,9 @@ end
 
 def print_first_directors_movie_titles
   
-  steve_movies = directors_database
+  steve_movies = directors_database[0][:movies]
+  
+  constant = 0
+  
   
 end
